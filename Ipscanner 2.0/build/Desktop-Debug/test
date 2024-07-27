@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>IP Scan Results</title>
+</head>
+<body>
+<h1>IP Scan Results</h1>
+<p>Document created on: 2024-07-27 13:08:46</p>
+<table border="1">
+<tr><th>IP Address</th><th>Status</th><th>MAC Address</th></tr>
+</table>
+</body>
+</html>

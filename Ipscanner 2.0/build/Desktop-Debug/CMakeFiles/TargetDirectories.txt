@@ -1,0 +1,5 @@
+/home/datacurve/Downloads/Ipscanner 2 (2).0-20240726T023551Z-001/Ipscanner 2.0/build/Desktop-Debug/CMakeFiles/IpScanner.dir
+/home/datacurve/Downloads/Ipscanner 2 (2).0-20240726T023551Z-001/Ipscanner 2.0/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/datacurve/Downloads/Ipscanner 2 (2).0-20240726T023551Z-001/Ipscanner 2.0/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/datacurve/Downloads/Ipscanner 2 (2).0-20240726T023551Z-001/Ipscanner 2.0/build/Desktop-Debug/CMakeFiles/IpScanner_autogen_timestamp_deps.dir
+/home/datacurve/Downloads/Ipscanner 2 (2).0-20240726T023551Z-001/Ipscanner 2.0/build/Desktop-Debug/CMakeFiles/IpScanner_autogen.dir
